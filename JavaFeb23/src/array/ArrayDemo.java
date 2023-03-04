@@ -3,6 +3,8 @@ package array;
 public class ArrayDemo {
 
 	public static void main(String[] args) {
+		
+		//this is an one dimentional array
 
 
 		//Declaring array
